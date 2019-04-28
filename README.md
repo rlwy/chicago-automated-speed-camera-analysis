@@ -4,6 +4,8 @@ MSIS2629 Individual Project anayzing the City of Chicago's Automated Speed Camer
 Rachel Lee  
 4/28/2019  
 
+**Tableau Public Link:** https://public.tableau.com/views/speed-camera-violations-v1/SpeedingCameraViolationsandFines?:embed=y&:display_count=yes&publish=yes
+
 # Background reading
 Prior to beginning the project, a lot of background reading had to be done to understang the Automated Speed Camera program that was launched by the City of Chicago. Materials that were reviewed included the program's documentation on the City's website, along with articles on the program by local news outlets, such as, Chicago Tribune.
   
@@ -35,18 +37,18 @@ In Tableau,
 
 
 # Dataset Sources
-*Per Capita Income*  
+**Per Capita Income**  
 URL: https://data.cityofchicago.org/Health-Human-Services/Per-Capita-Income/r6ad-wvtk  
 Docs: https://data.cityofchicago.org/api/assets/8D10B9D1-CCA3-4E7E-92C7-5125E9AB46E9  
 
-*Speed Camera Locations*   
+**Speed Camera Locations**   
 URL: https://data.cityofchicago.org/Transportation/Speed-Camera-Locations/4i42-qv3h
   
-*Speed Camera Violations*  
+**Speed Camera Violations**  
 URL: https://data.cityofchicago.org/Transportation/Speed-Camera-Violations/hhkd-xvj4
   
 Crashes  
-*Traffic Crashes - Crashes*  
+**Traffic Crashes - Crashes**  
 URL: https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if
 
 
