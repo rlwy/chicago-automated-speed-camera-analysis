@@ -95,6 +95,8 @@ _Chicago Children’s Safety ZonesCrash Data from 2009-2012_. Accessed at: https
 _Chicago, Illinois Demographic_. Accessed at: https://www.biggestuscities.com/demographics/il/chicago-city
   
 Chicago Tribune (2002). _Chicago Communities_. Accessed at: https://www.chicagotribune.com/chi-community-areas-htmlstory.html. Access on: April 25, 2019.
+
+_City of Chicago Budget 2018_. Accessed at: https://www.chicago.gov/content/dam/city/depts/obm/supp_info/2018Budget/2018_Budget_Overview.pdf. Accessed on: 5/2/2019
   
 _List of Activated Speed Cameras and Enforcement Schedule_. Accessed at: https://www.chicago.gov/content/dam/city/depts/cdot/Red%20Light%20Cameras/2018/Chicago_Active_Camera_Schedule_090518.pdf
   
