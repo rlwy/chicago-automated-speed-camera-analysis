@@ -6,7 +6,7 @@ Rachel Lee
 5/5/2019  
 
 **Tableau Public Link:** https://public.tableau.com/views/speed-camera-violations-v2/SpeedingCameraViolationsandFines?:embed=y&:display_count=yes&publish=yes  
-**Documentation:** Refer to documentation.md  
+**Documentation:** https://rlwy.github.io/chicago-automated-speed-camera-analysis/  
 
 ## Reflection
 Revisiting Version 1, after Week 5 classes, I noticed some mistakes that I overlooked in preparing the visualizations. For example, the axis label for story card 2 (Collected Fines Estimate by Year) should have been _Estimated Fines to be Collected by Year_ as the chart does not represent the total collected fines by the city, but rather the estimated amounted fines from all issued violations by the automated speed camera program alone. There were also other axis/title related issue in the other charts as well. One thing I realized from preparing the final documentation and cleaning up Version 1 for Version 2, was that my visualizations do not fully support my claim of how the fines were being heavy financial burdens to residents and possibly leading them to debt. Pehaps a more substantial analysis could have been made if I had combined the dataset with another traffic fine related dataset.
