@@ -1,5 +1,5 @@
 # Chicago Automated Speed Camera Analysis
-MSIS2629 Individual Project anayzing the City of Chicago's Automated Speed Camera Program
+MSIS2629 Individual Project analyzing the City of Chicago's Automated Speed Camera Program
   
 # Version 2
 Rachel Lee  
